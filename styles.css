@@ -267,6 +267,11 @@ textarea::placeholder {
     max-width: 650px;
 }
 
+.banner>img {
+    width: 100%;
+    max-width: 500px;
+}
+
 .section-title {
     font-weight: 600;
 }
